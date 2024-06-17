@@ -1,9 +1,5 @@
 # Volume-Control
 
-Sure! Here's a sample README file for your GitHub project on volume control using OpenCV, Mediapipe, and Pycaw:
-
----
-
 # Volume Control with Hand Gestures
 
 ## Introduction
